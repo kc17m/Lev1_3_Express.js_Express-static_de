@@ -1,0 +1,19 @@
+{
+  "name": "md_nodeexpress",
+  "version": "0.0.1",
+  "description": "Express Einführung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "learning",
+    "super-code"
+  ],
+  "author": "Monika Dauer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
